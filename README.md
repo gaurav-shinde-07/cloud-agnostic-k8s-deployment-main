@@ -1,5 +1,5 @@
 # gaurav-shinde-07-cloud-agnostic-k8s-deployment-main
-Step 1: Clone the repository   git clone https://github.com/ganekasar/cloud-agnostic-k8s-deployment
+Step 1: Clone the repository   git clone https://github.com/gaurav-shinde-07/cloud-agnostic-k8s-deployment
 
 AWS EKS:
 
