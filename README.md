@@ -21,7 +21,7 @@ This repository provides a **cloud-agnostic Kubernetes deployment setup** using 
 - AWS IAM Authenticator
 - `wget` installed
 
-### Steps
+## Steps
 
 # Step 1: Clone the repo
 git clone https://github.com/gaurav-shinde-07/cloud-agnostic-k8s-deployment-main
