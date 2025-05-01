@@ -43,7 +43,7 @@ A comprehensive web application that facilitates Kubernetes cluster deployment a
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/cloud-agnostic-k8s-deployment.git
+   git clone https://github.com/gaurav-shinde-07/cloud-agnostic-k8s-deployment.git
    cd cloud-agnostic-k8s-deployment
    ```
 
